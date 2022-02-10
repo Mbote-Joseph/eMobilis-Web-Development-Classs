@@ -1,0 +1,47 @@
+.navbar {
+  background-color: #ee6e73;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  min-height: 70px;
+  justify-content: space-between;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  margin-left: 50px;
+}
+
+.logo {
+  color: blue;
+}
+h1 {
+  text-align: center;
+  margin: 20px;
+}
+img {
+  margin-left: 120px;
+}
+
+footer {
+  background-color: #ee6e73;
+  text-align: center;
+  min-height: 70px;
+}
+.hero {
+  display: flex;
+}
+.card {
+  background-image: linear-gradient(#ee6e73, #f7f7f7);
+  border-radius: 20px;
+  margin: 100px;
+  min-height: 300px;
+  min-width: 450px;
+  padding: 30px;
+}
+.form {
+  margin: 200px;
+}
